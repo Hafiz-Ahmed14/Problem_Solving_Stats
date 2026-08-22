@@ -17,7 +17,7 @@
     <tr>
       <td>LeetCode</td>
       <td><a href = "https://leetcode.com/u/Hafizahmed_789/">Hafizahmed_789<a></td>
-      <td>243</td>
+      <td>419</td>
     </tr>
     <tr>
       <td>AtCoder</td>
@@ -37,7 +37,7 @@
     <tr>
       <td>Vjudge</td>
       <td>Hafiz_Ahmed</td>
-      <td>104</td>
+      <td>180</td>
     </tr>
     <tr>
       <td>UVA</td>
@@ -47,7 +47,7 @@
     <tr>
       <td>HackerRank</td>
       <td>hafizahmed373908</td>
-      <td>41</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>Beecrowd</td>
@@ -57,9 +57,9 @@
     <tr>
       <td>Total</td>
       <td></td>
-      <td>1548</td>
+      <td>1803</td>
     </tr>
   </tbody>
 </table>
 
-<p>Last Updated: 14 December, 2024</p>
+<p>Last Updated: 22 August, 2026</p>
